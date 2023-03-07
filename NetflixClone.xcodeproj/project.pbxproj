@@ -20,6 +20,7 @@
 		D7A5385929B2E38C0055322F /* HeroHeaderUIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D7A5385829B2E38C0055322F /* HeroHeaderUIView.swift */; };
 		D7A5385B29B58EBE0055322F /* APICaller.swift in Sources */ = {isa = PBXBuildFile; fileRef = D7A5385A29B58EBE0055322F /* APICaller.swift */; };
 		D7A5385D29B599F00055322F /* Movie.swift in Sources */ = {isa = PBXBuildFile; fileRef = D7A5385C29B599F00055322F /* Movie.swift */; };
+		D7A5385F29B6C7E70055322F /* Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = D7A5385E29B6C7E70055322F /* Extensions.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -38,6 +39,7 @@
 		D7A5385829B2E38C0055322F /* HeroHeaderUIView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HeroHeaderUIView.swift; sourceTree = "<group>"; };
 		D7A5385A29B58EBE0055322F /* APICaller.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = APICaller.swift; sourceTree = "<group>"; };
 		D7A5385C29B599F00055322F /* Movie.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Movie.swift; sourceTree = "<group>"; };
+		D7A5385E29B6C7E70055322F /* Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Extensions.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -124,6 +126,7 @@
 		D7A5385429B186540055322F /* Resources */ = {
 			isa = PBXGroup;
 			children = (
+				D7A5385E29B6C7E70055322F /* Extensions.swift */,
 			);
 			path = Resources;
 			sourceTree = "<group>";
@@ -213,6 +216,7 @@
 				D7A5385929B2E38C0055322F /* HeroHeaderUIView.swift in Sources */,
 				D7A5385029B12BE70055322F /* DownloadsViewController.swift in Sources */,
 				D7A5383529B06C640055322F /* AppDelegate.swift in Sources */,
+				D7A5385F29B6C7E70055322F /* Extensions.swift in Sources */,
 				D7A5383729B06C640055322F /* SceneDelegate.swift in Sources */,
 				D7A5384C29B12AB20055322F /* UpcomingViewController.swift in Sources */,
 				D7A5385D29B599F00055322F /* Movie.swift in Sources */,
