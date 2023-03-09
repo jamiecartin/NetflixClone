@@ -92,7 +92,6 @@
 				D7A5384829B1298E0055322F /* Controllers */,
 				D7A5383429B06C640055322F /* AppDelegate.swift */,
 				D7A5383629B06C640055322F /* SceneDelegate.swift */,
-				D7A5383829B06C640055322F /* MainTabBarViewController.swift */,
 				D7A5383D29B06C640055322F /* Assets.xcassets */,
 				D7A5383F29B06C640055322F /* LaunchScreen.storyboard */,
 				D7A5384229B06C640055322F /* Info.plist */,
@@ -157,6 +156,7 @@
 			children = (
 				D7A5384F29B12BE70055322F /* DownloadsViewController.swift */,
 				D7A5384929B129FA0055322F /* HomeViewController.swift */,
+				D7A5383829B06C640055322F /* MainTabBarViewController.swift */,
 				D7A5384D29B12BAF0055322F /* SearchViewController.swift */,
 				D7A5384B29B12AB20055322F /* UpcomingViewController.swift */,
 			);
