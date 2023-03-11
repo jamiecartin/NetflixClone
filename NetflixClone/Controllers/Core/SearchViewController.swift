@@ -139,12 +139,10 @@ extension SearchViewController: UISearchResultsUpdating, SearchResultsViewContro
     }
     
     func searchResultsViewControllerDidTapItem(_ viewModel: TitlePreviewViewModel) {
-        
         DispatchQueue.main.async { [weak self] in
             let vc = TitlePreviewViewController()
             vc.configure(with: viewModel)
             self?.navigationController?.pushViewController(vc, animated: true)
         }
-       
     }
 }
